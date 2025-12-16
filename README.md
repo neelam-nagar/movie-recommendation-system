@@ -45,6 +45,7 @@ movie-recommendation-system/
 
 ## 📊 Dataset
 TMDB 5000 Movies Dataset is used for building the recommendation system.
+Dataset used: TMDB 5000 Movies (available on Kaggle)
 
 ## ✅ Output
 The system recommends top 5 similar movies based on the selected movie.
