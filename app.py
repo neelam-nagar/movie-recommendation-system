@@ -44,7 +44,6 @@ vectors = cv.fit_transform(new_df['tags']).toarray()
 similarity = cosine_similarity(vectors)
 
 st.markdown("<h1 style='text-align:center;'>🎬 Movie Recommendation System</h1>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center;color:#9ca3af;'>Content-Based Recommendation using TMDB Dataset</p>", unsafe_allow_html=True)
 st.markdown("---")
 
 movie_list = new_df['title'].values
