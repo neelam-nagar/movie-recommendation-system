@@ -49,8 +49,3 @@ Dataset used: TMDB 5000 Movies (available on Kaggle)
 
 ## ✅ Output
 The system recommends top 5 similar movies based on the selected movie.
-
-## 👩‍💻 Author
-**Neelam Nagar**  
-BTech CSE Student  
-SKIT College, Jaipur
